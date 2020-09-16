@@ -16,6 +16,6 @@
   b) Possua instalado o Maven e o JavaSDK
   c) Abra o projeto na IDE de sua preferencia
   d) No terminal do projeto dentro da IDE digite o comando ' mvn clean install '
-  c) No terminal do projeto dentro da IDE digite o comando ' mvn spring-boot:run '
-  d) O servidor estara sendo escutado na porta indicada na IDE, para API sendo esta
+  e) No terminal do projeto dentro da IDE digite o comando ' mvn spring-boot:run '
+  f) O servidor estara sendo escutado na porta indicada na IDE, para API sendo esta
       geralmente a porta 8080
